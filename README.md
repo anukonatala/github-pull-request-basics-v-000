@@ -101,6 +101,7 @@ Now click Create pull request.
 
 ### Add Commits To An Existing Pull Request
 
+submitting with just changing this line
 Let's say you make a pull request from
 `https://github.com/your-user-name/awesome-lab` to
 `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a
